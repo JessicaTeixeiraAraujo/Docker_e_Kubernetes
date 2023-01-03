@@ -1,2 +1,2 @@
 # Docker
-Código trabalhado no curso Docker
+Projetos com aplicação Docker e Kubernetes.
